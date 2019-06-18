@@ -35,7 +35,7 @@ Falaremos sobre o [sistema de componentes](components.html) em detalhes futurame
 
 ## Dados e Métodos
 
-Quando uma instância Vue é criada,  ela adiciona todas as propriedades encontradas no objeto `data` ao **sistema de reatividade** do Vue. Quando os valores de qualquer destas propriedades muda, a camada visual "reage", atualizando-se para condizer com os novos valores.
+Quando uma instância Vue é criada,  ela adiciona todas as propriedades encontradas no objeto `data` ao **sistema de reatividade** do Vue. Quando os valores de qualquer destas propriedades mudam, a camada visual "reage", atualizando-se para condizer com os novos valores.
 
 ```js
 // Nosso objeto de dados
